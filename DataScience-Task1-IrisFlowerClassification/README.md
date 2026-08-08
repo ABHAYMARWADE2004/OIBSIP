@@ -47,6 +47,19 @@ Two classification algorithms were implemented:
 2. Random Forest Classifier
 
 
+## Project Workflow
+
+1. Loaded the Iris dataset using Scikit-learn.
+2. Performed Exploratory Data Analysis (EDA).
+3. Checked dataset shape, data types, null values, and descriptive statistics.
+4. Created visualizations using Seaborn and Matplotlib.
+5. Analyzed feature importance and discriminative features.
+6. Split the dataset into training and testing sets.
+7. Trained Logistic Regression and Random Forest models.
+8. Evaluated the models using accuracy, confusion matrix, precision, recall, and F1-score.
+9. Compared model performance and selected the best-performing model.
+
+
 ## Model Evaluation
 
 The models were evaluated using:
